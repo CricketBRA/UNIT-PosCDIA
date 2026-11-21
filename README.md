@@ -4,7 +4,8 @@ Projeto em Python para análise exploratória das vendas registradas de videogam
 
 > **Escopo:** este trabalho é um projeto de análise de dados acompanhado de relatório. Não é um sistema comprovado de previsão das vendas na primeira semana de lançamento.
 
-## 0. CANVAS em canvas/Canvas_Projeto_Vendas_Videogames_Metacritic.pdf
+## 0. CANVAS
+canvas/Canvas_Projeto_Vendas_Videogames_Metacritic.pdf
 
 ## 1. Perguntas de pesquisa
 
