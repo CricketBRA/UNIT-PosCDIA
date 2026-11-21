@@ -6,6 +6,7 @@ Projeto em Python para análise exploratória das vendas registradas de videogam
 
 ## 0. Links
 CANVAS: `canvas/Canvas_Projeto_Vendas_Videogames_Metacritic.pdf`
+Overleaf - Prévia do Artigo: `https://www.overleaf.com/project/6b018c08ad13f930d10b3b1f#`
 
 ## 1. Perguntas de pesquisa
 
