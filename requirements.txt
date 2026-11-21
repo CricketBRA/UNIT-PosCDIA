@@ -1,0 +1,7 @@
+# Dependencias do Projeto ML Vendas Metacritic
+# Instale com: python -m pip install -r requirements.txt
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
